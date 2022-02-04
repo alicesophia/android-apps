@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppReceita</string>
+    <string name="ingredientes">*4 ovos/n
+                                *1 e 1/2 xícara de açúcar\n
+                                *1 xícara de achocolatado em pó\n
+                                *2 xícaras de farinha de trigo\n
+                                *1/2 xícara de óleo\n
+                                *1 xícara de água morna\n
+                                *1 colher (sopa) bem cheia de fermento\n
+                                *Você deve fazer duas receitas desse bolo para dar a altura ideal do bolo de Kit Kat.</string>
+    <string name="bolo">Bolo de KitKat</string>
+    <string name="preparo"> 1 - Bata as claras em neve e reserve.\n
+                            2 - Bata, na batedeira, as gemas com açúcar, óleo e chocolate.\n
+                            3 - Coloque a água e a farinha e bata bem. Acrescente o fermento.\n
+                            4 - Coloque as claras em neve e misture com o fuê ou um garfo.\n
+                            5 - Leve para assar em forma média (forno médio/ baixo) por aproximadamente 30 minutos (isso varia um pouco de forno pra forno).</string>
+    <string name="title_activity_juros_composto">JurosComposto</string>
+</resources>
